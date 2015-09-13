@@ -1,4 +1,4 @@
-# angular-fileupload
+# angular-fileupload - POC
 
 ## Build & development
 
