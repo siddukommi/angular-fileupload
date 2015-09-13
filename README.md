@@ -1,2 +1,9 @@
 # angular-fileupload
-A sample angular app structure with Dropzone.js to upload file
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
